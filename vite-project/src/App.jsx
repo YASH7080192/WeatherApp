@@ -1,5 +1,6 @@
 import React from 'react'
-import WeatherApp from './weatherapp'
+import WeatherApp from './WeatherApp'
+
 
 
 const App = () => {
